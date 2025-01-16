@@ -1,2 +1,3 @@
 # Tech Store
- School Project/ Portugol Studio/ Programming logic
+  For study purposes
+  School Project/ Portugol Studio/ Programming logic
